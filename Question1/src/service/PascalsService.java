@@ -3,8 +3,6 @@ package service;
 import java.util.List;
 import api.HTTPLogic;
 import model.PascalsLogic;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
 
 public class PascalsService {
 
